@@ -317,7 +317,9 @@ Refresh data source paths to your local outputs/ directory
 ## Author
 
 **Mohsin Raza**
+
 Business / BI Data Analyst
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohsinraza-data/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsinansari1799@gmail.com)
 
