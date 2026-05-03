@@ -11,14 +11,12 @@
 
 ## The Business Problem
 
-A D2C personal care brand with 280 SKUs and ₹100Cr in annual revenue
-was operating with a bloated product catalog. Revenue looked healthy.
-Margins did not.
+A D2C personal care brand with 280 SKUs and ₹100Cr in annual revenue was operating with a bloated product catalog. Revenue looked healthy. Margins did not.
 
 **Nobody could answer three basic questions:**
 
 - Which SKUs are actually profitable after carrying costs?
-- Which SKUs should be discontinued — and in what order?
+- Which SKUs should be discontinued - and in what order?
 - Which low-revenue SKUs are secretly driving new customer acquisition?
 
 Without answers, the brand was making procurement decisions on gut
@@ -31,7 +29,7 @@ This project builds the system that answers all three questions.
 
 ## The Decision This System Enables
 
-> *"Which SKUs should we discontinue, consolidate, or accelerate —
+> *"Which SKUs should we discontinue, consolidate, or accelerate -
 > and in what order - to maximise margin without breaking the
 > customer acquisition funnel?"*
 
@@ -49,7 +47,7 @@ This project builds the system that answers all three questions.
 | Gateway repeat rate (customers worth protecting) | 75.1% |
 
 **The critical insight:** 44 SKUs appeared profitable on gross margin
-but flipped to negative once complexity costs — storage, handling,
+but flipped to negative once complexity costs - storage, handling,
 and packaging overhead - were allocated per SKU. Standard reporting
 missed this entirely.
 
