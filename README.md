@@ -202,18 +202,15 @@ They generate 1.4% of revenue at -54% average true margin.
 
 The most important insight in the project.
 
-Some SKUs score poorly on revenue and margin but are
-disproportionately responsible for bringing customers into the brand.
+Some SKUs score poorly on revenue and margin but are disproportionately responsible for bringing customers into the brand.
 
-Gateway SKUs (score = 3)  : 93 SKUs
-Avg repeat rate            : 75.1%
-Avg 90-day LTV             : ₹1,490
-At-risk gateways (Watch/Kill): flagged for manual review
+- Gateway SKUs (score = 3)  : 93 SKUs
+- Avg repeat rate            : 75.1%
+- Avg 90-day LTV             : ₹1,490
+- At-risk gateways (Watch/Kill): flagged for manual review
 
 A standard rationalization model would kill some of these.
-This system protects them using a gateway override rule -
-and flags every at-risk gateway SKU for manual review
-before any discontinuation decision is made.
+This system protects them using a gateway override rule - and flags every at-risk gateway SKU for manual review before any discontinuation decision is made.
 
 ---
 
@@ -302,11 +299,11 @@ pip install pandas numpy matplotlib scipy
 
 **3. Run notebooks in order**
 
-01_data_generation.ipynb    → generates Raw data files
-02_data_cleaning.ipynb      → produces Cleaned data files
-03_exploratory_analysis.ipynb → produces charts in outputs/
-04_core_analysis.ipynb      → produces scored master table
-05_insights_findings.ipynb  → produces final insight charts
+- 01_data_generation.ipynb    → generates Raw data files
+- 02_data_cleaning.ipynb      → produces Cleaned data files
+- 03_exploratory_analysis.ipynb → produces charts in outputs/
+- 04_core_analysis.ipynb      → produces scored master table
+- 05_insights_findings.ipynb  → produces final insight charts
 
 **4. Open dashboard**
 
