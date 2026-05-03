@@ -157,30 +157,30 @@ True Profit = Gross Profit
 Measures each SKU's role in acquiring new customers.
 
 Gateway Score Raw = Times as First Purchase × Repeat Rate
+
 Normalised to 1-3 scale:
-3 = High gateway value (top 34% of acquisition SKUs)
-2 = Medium
-1 = Low or no gateway role
+
+- 3 = High gateway value (top 34% of acquisition SKUs)
+- 2 = Medium
+- 1 = Low or no gateway role
 
 ### Step 5 - Rationalization Score (Composite)
 
-Rationalization Score =
-ABC Score  × 0.35   (revenue contribution - most weight)
-
-Margin Score × 0.30  (true margin health)
-XYZ Score  × 0.20   (demand stability)
-Gateway Score × 0.15 (acquisition role)
+- Rationalization Score = ABC Score  × 0.35   (revenue contribution - most weight)
+- Margin Score × 0.30  (true margin health)
+- XYZ Score  × 0.20   (demand stability)
+- Gateway Score × 0.15 (acquisition role)
 
 Scale: 1.0 (worst) to 3.0 (best)
 
 ### Step 6 - Recommendation Engine
 
-Score ≥ 2.5                          → Accelerate
-Score < 2.5, ABC = A                 → Protect
-Gateway Score = 3, acquisitions ≥ 300 → Protect (override)
-True margin < 0, Declining, Gateway = 1 → Kill
-Score < 1.5                          → Kill
-All others                           → Watch
+- Score ≥ 2.5                          → Accelerate
+- Score < 2.5, ABC = A                 → Protect
+- Gateway Score = 3, acquisitions ≥ 300 → Protect (override)
+- True margin < 0, Declining, Gateway = 1 → Kill
+- Score < 1.5                          → Kill
+- All others                           → Watch
 
 ---
 
