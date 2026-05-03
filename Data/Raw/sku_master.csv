@@ -1,0 +1,281 @@
+sku_id,sku_name,category,subcategory,launch_date,mrp,cost_price,is_active,pack_size
+SKU0001,Haircare Shampoo Variant 1,Haircare,Shampoo,2022-09-01,232.0,78.0,True,50ml
+SKU0002,Haircare Shampoo Variant 2,Haircare,Shampoo,2023-05-25,967.0,277.0,True,30 tablets
+SKU0003,Haircare Shampoo Variant 3,Haircare,Shampoo,2020-11-11,929.0,393.0,True,1kg
+SKU0004,Haircare Hair Oil Variant 4,Haircare,Hair Oil,2023-01-10,1251.0,352.0,True,250g
+SKU0005,Haircare Hair Oil Variant 5,Haircare,Hair Oil,2022-01-12,401.0,189.0,True,500g
+SKU0006,Haircare Shampoo Variant 6,Haircare,Shampoo,2022-06-09,666.0,232.0,True,1kg
+SKU0007,Haircare Shampoo Variant 7,Haircare,Shampoo,2020-10-28,1464.0,521.0,True,60 capsules
+SKU0008,Haircare Hair Oil Variant 8,Haircare,Hair Oil,2023-08-31,950.0,400.0,True,200ml
+SKU0009,Haircare Shampoo Variant 9,Haircare,Shampoo,2021-10-15,1311.0,594.0,True,250g
+SKU0010,Haircare Conditioner Variant 10,Haircare,Conditioner,2022-06-04,680.0,219.0,True,50ml
+SKU0011,Haircare Conditioner Variant 11,Haircare,Conditioner,2021-04-30,893.0,294.0,True,30 tablets
+SKU0012,Haircare Conditioner Variant 12,Haircare,Conditioner,2023-08-10,1089.0,488.0,True,30ml
+SKU0013,Haircare Hair Oil Variant 13,Haircare,Hair Oil,2020-09-27,721.0,211.0,True,250g
+SKU0014,Haircare Conditioner Variant 14,Haircare,Conditioner,2021-05-07,1051.0,377.0,True,100ml
+SKU0015,Haircare Conditioner Variant 15,Haircare,Conditioner,2021-07-08,1167.0,453.0,True,500g
+SKU0016,Haircare Hair Oil Variant 16,Haircare,Hair Oil,2021-01-23,484.0,232.0,True,30ml
+SKU0017,Haircare Shampoo Variant 17,Haircare,Shampoo,2021-07-21,398.0,124.0,True,500g
+SKU0018,Haircare Hair Mask Variant 18,Haircare,Hair Mask,2022-07-06,974.0,364.0,False,30ml
+SKU0019,Haircare Shampoo Variant 19,Haircare,Shampoo,2022-06-04,1085.0,420.0,True,250g
+SKU0020,Haircare Shampoo Variant 20,Haircare,Shampoo,2023-11-26,581.0,181.0,False,200ml
+SKU0021,Haircare Conditioner Variant 21,Haircare,Conditioner,2022-03-31,859.0,259.0,True,30 tablets
+SKU0022,Haircare Conditioner Variant 22,Haircare,Conditioner,2020-11-23,398.0,172.0,False,30 tablets
+SKU0023,Haircare Shampoo Variant 23,Haircare,Shampoo,2023-04-17,978.0,369.0,False,200ml
+SKU0024,Haircare Conditioner Variant 24,Haircare,Conditioner,2023-06-24,274.0,125.0,True,1kg
+SKU0025,Haircare Shampoo Variant 25,Haircare,Shampoo,2023-03-20,1470.0,568.0,True,1kg
+SKU0026,Haircare Conditioner Variant 26,Haircare,Conditioner,2021-07-19,544.0,247.0,False,30 tablets
+SKU0027,Haircare Conditioner Variant 27,Haircare,Conditioner,2021-10-29,1126.0,405.0,True,30 tablets
+SKU0028,Haircare Hair Mask Variant 28,Haircare,Hair Mask,2022-01-09,356.0,116.0,True,30 tablets
+SKU0029,Haircare Conditioner Variant 29,Haircare,Conditioner,2023-08-04,964.0,271.0,True,30ml
+SKU0030,Haircare Hair Oil Variant 30,Haircare,Hair Oil,2021-03-13,291.0,95.0,True,100ml
+SKU0031,Haircare Hair Mask Variant 31,Haircare,Hair Mask,2021-08-21,515.0,193.0,True,50ml
+SKU0032,Haircare Hair Mask Variant 32,Haircare,Hair Mask,2023-08-14,660.0,239.0,True,50ml
+SKU0033,Haircare Shampoo Variant 33,Haircare,Shampoo,2023-04-23,722.0,251.0,True,150ml
+SKU0034,Haircare Hair Mask Variant 34,Haircare,Hair Mask,2021-04-29,381.0,121.0,True,50ml
+SKU0035,Haircare Hair Mask Variant 35,Haircare,Hair Mask,2023-05-16,1249.0,564.0,True,30 tablets
+SKU0036,Haircare Shampoo Variant 36,Haircare,Shampoo,2022-08-05,1459.0,679.0,True,1kg
+SKU0037,Haircare Hair Mask Variant 37,Haircare,Hair Mask,2023-08-04,477.0,172.0,True,30ml
+SKU0038,Haircare Hair Mask Variant 38,Haircare,Hair Mask,2021-05-15,544.0,238.0,True,30 tablets
+SKU0039,Haircare Hair Mask Variant 39,Haircare,Hair Mask,2023-08-05,400.0,136.0,True,30 tablets
+SKU0040,Haircare Shampoo Variant 40,Haircare,Shampoo,2021-03-31,1171.0,341.0,True,30 tablets
+SKU0041,Haircare Conditioner Variant 41,Haircare,Conditioner,2022-11-17,273.0,104.0,True,50ml
+SKU0042,Haircare Conditioner Variant 42,Haircare,Conditioner,2020-09-22,724.0,339.0,True,60 capsules
+SKU0043,Haircare Shampoo Variant 43,Haircare,Shampoo,2020-10-01,1004.0,365.0,True,200ml
+SKU0044,Haircare Conditioner Variant 44,Haircare,Conditioner,2022-06-07,1070.0,367.0,True,200ml
+SKU0045,Haircare Hair Mask Variant 45,Haircare,Hair Mask,2023-07-07,610.0,263.0,True,60 capsules
+SKU0046,Haircare Shampoo Variant 46,Haircare,Shampoo,2022-06-07,294.0,95.0,True,250g
+SKU0047,Haircare Shampoo Variant 47,Haircare,Shampoo,2023-01-13,1342.0,475.0,True,30 tablets
+SKU0048,Skincare Moisturizer Variant 48,Skincare,Moisturizer,2020-12-14,994.0,475.0,True,30 tablets
+SKU0049,Skincare Moisturizer Variant 49,Skincare,Moisturizer,2023-03-02,1410.0,424.0,True,50ml
+SKU0050,Skincare Serum Variant 50,Skincare,Serum,2021-12-30,553.0,222.0,True,200ml
+SKU0051,Skincare Sunscreen Variant 51,Skincare,Sunscreen,2023-08-20,525.0,242.0,True,500g
+SKU0052,Skincare Moisturizer Variant 52,Skincare,Moisturizer,2023-03-10,256.0,89.0,True,200ml
+SKU0053,Skincare Serum Variant 53,Skincare,Serum,2021-07-10,1163.0,454.0,True,50ml
+SKU0054,Skincare Face Wash Variant 54,Skincare,Face Wash,2023-01-31,1428.0,597.0,True,250g
+SKU0055,Skincare Serum Variant 55,Skincare,Serum,2021-11-16,758.0,219.0,True,30ml
+SKU0056,Skincare Moisturizer Variant 56,Skincare,Moisturizer,2023-05-06,472.0,156.0,True,30 tablets
+SKU0057,Skincare Sunscreen Variant 57,Skincare,Sunscreen,2022-08-05,1465.0,630.0,True,100ml
+SKU0058,Skincare Sunscreen Variant 58,Skincare,Sunscreen,2022-01-21,231.0,99.0,True,500g
+SKU0059,Skincare Serum Variant 59,Skincare,Serum,2023-04-25,546.0,239.0,True,30ml
+SKU0060,Skincare Sunscreen Variant 60,Skincare,Sunscreen,2021-05-04,488.0,216.0,True,150ml
+SKU0061,Skincare Serum Variant 61,Skincare,Serum,2022-01-29,230.0,73.0,True,50ml
+SKU0062,Skincare Moisturizer Variant 62,Skincare,Moisturizer,2020-11-29,655.0,250.0,True,30ml
+SKU0063,Skincare Face Wash Variant 63,Skincare,Face Wash,2022-06-07,1339.0,445.0,True,60 capsules
+SKU0064,Skincare Sunscreen Variant 64,Skincare,Sunscreen,2021-06-22,648.0,283.0,True,30 tablets
+SKU0065,Skincare Face Wash Variant 65,Skincare,Face Wash,2022-06-29,700.0,277.0,True,500g
+SKU0066,Skincare Face Wash Variant 66,Skincare,Face Wash,2022-10-25,875.0,386.0,True,50ml
+SKU0067,Skincare Moisturizer Variant 67,Skincare,Moisturizer,2023-03-22,1009.0,416.0,True,200ml
+SKU0068,Skincare Moisturizer Variant 68,Skincare,Moisturizer,2022-04-06,1066.0,368.0,True,150ml
+SKU0069,Skincare Sunscreen Variant 69,Skincare,Sunscreen,2022-12-11,1063.0,378.0,True,200ml
+SKU0070,Skincare Sunscreen Variant 70,Skincare,Sunscreen,2022-04-24,911.0,255.0,True,60 capsules
+SKU0071,Skincare Moisturizer Variant 71,Skincare,Moisturizer,2022-09-21,803.0,296.0,True,100ml
+SKU0072,Skincare Face Wash Variant 72,Skincare,Face Wash,2022-01-15,568.0,234.0,True,150ml
+SKU0073,Skincare Moisturizer Variant 73,Skincare,Moisturizer,2023-10-13,491.0,157.0,True,1kg
+SKU0074,Skincare Face Wash Variant 74,Skincare,Face Wash,2022-10-30,791.0,362.0,True,500g
+SKU0075,Skincare Sunscreen Variant 75,Skincare,Sunscreen,2023-11-21,719.0,223.0,True,50ml
+SKU0076,Skincare Sunscreen Variant 76,Skincare,Sunscreen,2021-01-06,483.0,213.0,True,30 tablets
+SKU0077,Skincare Serum Variant 77,Skincare,Serum,2023-03-04,1392.0,424.0,True,30 tablets
+SKU0078,Skincare Moisturizer Variant 78,Skincare,Moisturizer,2021-02-02,1434.0,657.0,True,30 tablets
+SKU0079,Skincare Sunscreen Variant 79,Skincare,Sunscreen,2021-04-04,1365.0,585.0,True,150ml
+SKU0080,Skincare Moisturizer Variant 80,Skincare,Moisturizer,2022-07-31,1195.0,459.0,True,50ml
+SKU0081,Skincare Moisturizer Variant 81,Skincare,Moisturizer,2020-11-21,504.0,175.0,True,100ml
+SKU0082,Skincare Serum Variant 82,Skincare,Serum,2022-09-20,697.0,216.0,True,500g
+SKU0083,Skincare Moisturizer Variant 83,Skincare,Moisturizer,2022-10-05,904.0,328.0,True,500g
+SKU0084,Skincare Face Wash Variant 84,Skincare,Face Wash,2021-10-14,1313.0,569.0,True,250g
+SKU0085,Skincare Moisturizer Variant 85,Skincare,Moisturizer,2021-07-27,1179.0,531.0,True,30 tablets
+SKU0086,Skincare Serum Variant 86,Skincare,Serum,2021-03-13,834.0,279.0,True,250g
+SKU0087,Skincare Sunscreen Variant 87,Skincare,Sunscreen,2023-03-16,1140.0,511.0,False,30 tablets
+SKU0088,Skincare Face Wash Variant 88,Skincare,Face Wash,2023-10-08,1378.0,549.0,True,500g
+SKU0089,Skincare Serum Variant 89,Skincare,Serum,2022-06-18,1326.0,419.0,True,150ml
+SKU0090,Skincare Sunscreen Variant 90,Skincare,Sunscreen,2021-10-17,624.0,270.0,True,500g
+SKU0091,Skincare Moisturizer Variant 91,Skincare,Moisturizer,2020-11-23,1284.0,480.0,True,250g
+SKU0092,Skincare Serum Variant 92,Skincare,Serum,2023-09-11,1044.0,455.0,True,150ml
+SKU0093,Skincare Serum Variant 93,Skincare,Serum,2022-08-01,1290.0,522.0,True,50ml
+SKU0094,Skincare Serum Variant 94,Skincare,Serum,2021-11-07,804.0,266.0,True,60 capsules
+SKU0095,Nutrition Supplements Variant 95,Nutrition,Supplements,2023-01-01,1133.0,493.0,False,50ml
+SKU0096,Nutrition Supplements Variant 96,Nutrition,Supplements,2021-10-25,232.0,79.0,True,150ml
+SKU0097,Nutrition Protein Powder Variant 97,Nutrition,Protein Powder,2022-07-23,969.0,432.0,True,200ml
+SKU0098,Nutrition Supplements Variant 98,Nutrition,Supplements,2020-09-29,980.0,298.0,True,250g
+SKU0099,Nutrition Supplements Variant 99,Nutrition,Supplements,2021-01-30,756.0,268.0,True,30ml
+SKU0100,Nutrition Vitamins Variant 100,Nutrition,Vitamins,2021-11-21,1268.0,382.0,True,1kg
+SKU0101,Nutrition Supplements Variant 101,Nutrition,Supplements,2020-12-29,398.0,125.0,False,200ml
+SKU0102,Nutrition Supplements Variant 102,Nutrition,Supplements,2021-03-17,1250.0,485.0,True,60 capsules
+SKU0103,Nutrition Vitamins Variant 103,Nutrition,Vitamins,2023-06-08,618.0,203.0,True,1kg
+SKU0104,Nutrition Protein Powder Variant 104,Nutrition,Protein Powder,2021-10-17,1175.0,463.0,True,1kg
+SKU0105,Nutrition Vitamins Variant 105,Nutrition,Vitamins,2022-06-21,435.0,140.0,True,60 capsules
+SKU0106,Nutrition Supplements Variant 106,Nutrition,Supplements,2021-01-08,1343.0,525.0,False,50ml
+SKU0107,Nutrition Protein Powder Variant 107,Nutrition,Protein Powder,2022-07-28,1135.0,429.0,True,1kg
+SKU0108,Nutrition Vitamins Variant 108,Nutrition,Vitamins,2022-09-05,1230.0,367.0,True,150ml
+SKU0109,Nutrition Vitamins Variant 109,Nutrition,Vitamins,2020-10-25,1062.0,376.0,True,500g
+SKU0110,Nutrition Supplements Variant 110,Nutrition,Supplements,2021-05-17,915.0,321.0,True,200ml
+SKU0111,Nutrition Protein Powder Variant 111,Nutrition,Protein Powder,2023-04-02,356.0,113.0,True,100ml
+SKU0112,Nutrition Protein Powder Variant 112,Nutrition,Protein Powder,2020-12-23,480.0,181.0,True,50ml
+SKU0113,Nutrition Protein Powder Variant 113,Nutrition,Protein Powder,2022-03-23,584.0,206.0,True,30 tablets
+SKU0114,Nutrition Protein Powder Variant 114,Nutrition,Protein Powder,2020-10-25,556.0,264.0,True,100ml
+SKU0115,Nutrition Supplements Variant 115,Nutrition,Supplements,2023-11-07,1328.0,502.0,True,1kg
+SKU0116,Nutrition Vitamins Variant 116,Nutrition,Vitamins,2023-08-19,772.0,245.0,True,1kg
+SKU0117,Nutrition Protein Powder Variant 117,Nutrition,Protein Powder,2023-07-04,1268.0,457.0,True,30ml
+SKU0118,Nutrition Protein Powder Variant 118,Nutrition,Protein Powder,2022-03-20,393.0,154.0,True,150ml
+SKU0119,Nutrition Protein Powder Variant 119,Nutrition,Protein Powder,2022-08-27,924.0,336.0,True,500g
+SKU0120,Nutrition Vitamins Variant 120,Nutrition,Vitamins,2021-07-07,1380.0,468.0,True,60 capsules
+SKU0121,Nutrition Protein Powder Variant 121,Nutrition,Protein Powder,2022-10-03,992.0,425.0,True,200ml
+SKU0122,Nutrition Supplements Variant 122,Nutrition,Supplements,2020-10-28,305.0,100.0,True,30ml
+SKU0123,Nutrition Vitamins Variant 123,Nutrition,Vitamins,2022-04-15,785.0,313.0,True,200ml
+SKU0124,Nutrition Supplements Variant 124,Nutrition,Supplements,2023-07-10,567.0,256.0,True,200ml
+SKU0125,Nutrition Supplements Variant 125,Nutrition,Supplements,2022-10-23,966.0,426.0,True,30 tablets
+SKU0126,Nutrition Protein Powder Variant 126,Nutrition,Protein Powder,2023-02-14,1041.0,481.0,True,100ml
+SKU0127,Nutrition Vitamins Variant 127,Nutrition,Vitamins,2022-04-20,973.0,433.0,True,1kg
+SKU0128,Nutrition Supplements Variant 128,Nutrition,Supplements,2022-05-24,594.0,214.0,True,1kg
+SKU0129,Nutrition Vitamins Variant 129,Nutrition,Vitamins,2021-07-01,304.0,88.0,True,60 capsules
+SKU0130,Nutrition Vitamins Variant 130,Nutrition,Vitamins,2023-10-21,233.0,76.0,False,200ml
+SKU0131,Nutrition Supplements Variant 131,Nutrition,Supplements,2021-04-13,251.0,108.0,True,1kg
+SKU0132,Nutrition Vitamins Variant 132,Nutrition,Vitamins,2021-02-28,435.0,173.0,False,1kg
+SKU0133,Nutrition Vitamins Variant 133,Nutrition,Vitamins,2023-05-02,730.0,251.0,True,250g
+SKU0134,Nutrition Vitamins Variant 134,Nutrition,Vitamins,2021-09-03,1101.0,372.0,True,30 tablets
+SKU0135,Nutrition Protein Powder Variant 135,Nutrition,Protein Powder,2022-02-08,790.0,271.0,True,500g
+SKU0136,Nutrition Supplements Variant 136,Nutrition,Supplements,2020-11-16,1271.0,356.0,True,30ml
+SKU0137,Nutrition Protein Powder Variant 137,Nutrition,Protein Powder,2021-02-15,873.0,353.0,True,30ml
+SKU0138,Nutrition Protein Powder Variant 138,Nutrition,Protein Powder,2022-04-22,546.0,167.0,True,1kg
+SKU0139,Nutrition Protein Powder Variant 139,Nutrition,Protein Powder,2022-07-30,237.0,96.0,True,200ml
+SKU0140,Nutrition Supplements Variant 140,Nutrition,Supplements,2022-08-29,217.0,78.0,False,50ml
+SKU0141,Nutrition Vitamins Variant 141,Nutrition,Vitamins,2023-01-21,1430.0,586.0,True,200ml
+SKU0142,Body Care Scrub Variant 142,Body Care,Scrub,2021-03-19,1116.0,405.0,False,150ml
+SKU0143,Body Care Body Wash Variant 143,Body Care,Body Wash,2021-01-26,916.0,327.0,True,100ml
+SKU0144,Body Care Body Lotion Variant 144,Body Care,Body Lotion,2021-08-05,558.0,244.0,True,30 tablets
+SKU0145,Body Care Body Wash Variant 145,Body Care,Body Wash,2022-03-31,1266.0,426.0,True,60 capsules
+SKU0146,Body Care Scrub Variant 146,Body Care,Scrub,2020-11-24,836.0,259.0,True,250g
+SKU0147,Body Care Scrub Variant 147,Body Care,Scrub,2022-02-11,1191.0,423.0,True,150ml
+SKU0148,Body Care Scrub Variant 148,Body Care,Scrub,2021-08-13,697.0,314.0,True,1kg
+SKU0149,Body Care Scrub Variant 149,Body Care,Scrub,2023-01-25,1386.0,494.0,True,30ml
+SKU0150,Body Care Body Lotion Variant 150,Body Care,Body Lotion,2023-05-11,852.0,339.0,True,1kg
+SKU0151,Body Care Body Lotion Variant 151,Body Care,Body Lotion,2023-02-10,883.0,328.0,True,100ml
+SKU0152,Body Care Body Lotion Variant 152,Body Care,Body Lotion,2022-01-08,809.0,383.0,True,500g
+SKU0153,Body Care Scrub Variant 153,Body Care,Scrub,2020-12-05,303.0,105.0,True,250g
+SKU0154,Body Care Scrub Variant 154,Body Care,Scrub,2020-11-19,1133.0,489.0,True,50ml
+SKU0155,Body Care Body Lotion Variant 155,Body Care,Body Lotion,2022-08-24,1020.0,473.0,True,500g
+SKU0156,Body Care Body Lotion Variant 156,Body Care,Body Lotion,2023-05-11,1187.0,499.0,True,200ml
+SKU0157,Body Care Body Lotion Variant 157,Body Care,Body Lotion,2022-04-11,259.0,114.0,True,500g
+SKU0158,Body Care Body Lotion Variant 158,Body Care,Body Lotion,2022-11-29,516.0,187.0,True,50ml
+SKU0159,Body Care Scrub Variant 159,Body Care,Scrub,2022-07-27,1331.0,538.0,True,60 capsules
+SKU0160,Body Care Body Lotion Variant 160,Body Care,Body Lotion,2021-05-05,501.0,204.0,True,30ml
+SKU0161,Body Care Body Wash Variant 161,Body Care,Body Wash,2023-01-13,1371.0,570.0,True,250g
+SKU0162,Body Care Scrub Variant 162,Body Care,Scrub,2022-07-08,588.0,278.0,True,200ml
+SKU0163,Body Care Body Lotion Variant 163,Body Care,Body Lotion,2023-04-28,1498.0,675.0,True,60 capsules
+SKU0164,Body Care Body Wash Variant 164,Body Care,Body Wash,2022-04-07,946.0,453.0,True,500g
+SKU0165,Body Care Body Wash Variant 165,Body Care,Body Wash,2023-08-24,210.0,95.0,True,1kg
+SKU0166,Body Care Body Wash Variant 166,Body Care,Body Wash,2021-12-11,1207.0,394.0,True,150ml
+SKU0167,Body Care Scrub Variant 167,Body Care,Scrub,2023-02-25,525.0,226.0,True,30ml
+SKU0168,Body Care Body Wash Variant 168,Body Care,Body Wash,2021-11-15,1224.0,351.0,True,50ml
+SKU0169,Body Care Body Wash Variant 169,Body Care,Body Wash,2022-10-17,624.0,227.0,True,30 tablets
+SKU0170,Body Care Body Wash Variant 170,Body Care,Body Wash,2022-12-31,889.0,411.0,True,1kg
+SKU0171,Body Care Body Wash Variant 171,Body Care,Body Wash,2023-04-11,1170.0,407.0,True,50ml
+SKU0172,Body Care Body Lotion Variant 172,Body Care,Body Lotion,2021-09-10,1179.0,383.0,False,30 tablets
+SKU0173,Body Care Body Wash Variant 173,Body Care,Body Wash,2022-06-09,316.0,113.0,True,1kg
+SKU0174,Body Care Body Wash Variant 174,Body Care,Body Wash,2021-10-13,1074.0,445.0,True,250g
+SKU0175,Body Care Body Lotion Variant 175,Body Care,Body Lotion,2020-10-09,1076.0,403.0,True,60 capsules
+SKU0176,Body Care Body Lotion Variant 176,Body Care,Body Lotion,2021-04-26,1041.0,424.0,True,200ml
+SKU0177,Body Care Scrub Variant 177,Body Care,Scrub,2023-09-17,730.0,225.0,True,1kg
+SKU0178,Body Care Body Lotion Variant 178,Body Care,Body Lotion,2023-02-28,325.0,149.0,True,250g
+SKU0179,Body Care Scrub Variant 179,Body Care,Scrub,2020-11-21,1433.0,601.0,True,100ml
+SKU0180,Body Care Body Wash Variant 180,Body Care,Body Wash,2021-08-19,1050.0,469.0,False,200ml
+SKU0181,Body Care Body Lotion Variant 181,Body Care,Body Lotion,2021-06-05,1096.0,355.0,False,250g
+SKU0182,Body Care Body Lotion Variant 182,Body Care,Body Lotion,2021-11-28,1474.0,521.0,True,200ml
+SKU0183,Body Care Body Lotion Variant 183,Body Care,Body Lotion,2021-05-15,1458.0,685.0,True,150ml
+SKU0184,Body Care Scrub Variant 184,Body Care,Scrub,2023-08-21,1030.0,488.0,True,150ml
+SKU0185,Body Care Body Lotion Variant 185,Body Care,Body Lotion,2020-10-23,1222.0,392.0,True,150ml
+SKU0186,Body Care Body Lotion Variant 186,Body Care,Body Lotion,2023-11-27,626.0,194.0,True,100ml
+SKU0187,Body Care Body Lotion Variant 187,Body Care,Body Lotion,2023-04-21,901.0,396.0,True,30ml
+SKU0188,Body Care Body Lotion Variant 188,Body Care,Body Lotion,2022-08-02,218.0,95.0,True,30ml
+SKU0189,Oral Care Toothpaste Variant 189,Oral Care,Toothpaste,2021-07-23,544.0,166.0,True,50ml
+SKU0190,Oral Care Mouthwash Variant 190,Oral Care,Mouthwash,2023-04-23,782.0,276.0,True,150ml
+SKU0191,Oral Care Tooth Serum Variant 191,Oral Care,Tooth Serum,2020-12-30,255.0,111.0,True,30ml
+SKU0192,Oral Care Toothpaste Variant 192,Oral Care,Toothpaste,2021-07-12,1497.0,673.0,True,1kg
+SKU0193,Oral Care Tooth Serum Variant 193,Oral Care,Tooth Serum,2023-06-20,1382.0,407.0,True,100ml
+SKU0194,Oral Care Toothpaste Variant 194,Oral Care,Toothpaste,2020-11-04,363.0,147.0,True,500g
+SKU0195,Oral Care Tooth Serum Variant 195,Oral Care,Tooth Serum,2021-07-04,889.0,330.0,True,50ml
+SKU0196,Oral Care Tooth Serum Variant 196,Oral Care,Tooth Serum,2022-09-18,1045.0,453.0,True,150ml
+SKU0197,Oral Care Mouthwash Variant 197,Oral Care,Mouthwash,2021-08-03,640.0,237.0,True,250g
+SKU0198,Oral Care Mouthwash Variant 198,Oral Care,Mouthwash,2023-01-24,605.0,200.0,True,1kg
+SKU0199,Oral Care Toothpaste Variant 199,Oral Care,Toothpaste,2021-07-01,318.0,94.0,True,250g
+SKU0200,Oral Care Toothpaste Variant 200,Oral Care,Toothpaste,2020-10-08,922.0,366.0,True,50ml
+SKU0201,Oral Care Mouthwash Variant 201,Oral Care,Mouthwash,2021-07-19,659.0,272.0,True,30ml
+SKU0202,Oral Care Mouthwash Variant 202,Oral Care,Mouthwash,2021-01-27,980.0,343.0,True,1kg
+SKU0203,Oral Care Toothpaste Variant 203,Oral Care,Toothpaste,2020-10-19,1300.0,455.0,True,200ml
+SKU0204,Oral Care Tooth Serum Variant 204,Oral Care,Tooth Serum,2020-10-10,493.0,180.0,False,60 capsules
+SKU0205,Oral Care Tooth Serum Variant 205,Oral Care,Tooth Serum,2022-06-03,1076.0,421.0,True,200ml
+SKU0206,Oral Care Tooth Serum Variant 206,Oral Care,Tooth Serum,2021-12-14,1190.0,553.0,True,100ml
+SKU0207,Oral Care Tooth Serum Variant 207,Oral Care,Tooth Serum,2023-10-01,1054.0,310.0,True,30 tablets
+SKU0208,Oral Care Toothpaste Variant 208,Oral Care,Toothpaste,2023-01-14,688.0,255.0,True,250g
+SKU0209,Oral Care Tooth Serum Variant 209,Oral Care,Tooth Serum,2023-01-18,974.0,445.0,True,60 capsules
+SKU0210,Oral Care Toothpaste Variant 210,Oral Care,Toothpaste,2021-07-17,1075.0,360.0,True,1kg
+SKU0211,Oral Care Mouthwash Variant 211,Oral Care,Mouthwash,2023-04-13,554.0,239.0,True,50ml
+SKU0212,Oral Care Mouthwash Variant 212,Oral Care,Mouthwash,2020-12-18,1081.0,431.0,True,30ml
+SKU0213,Oral Care Toothpaste Variant 213,Oral Care,Toothpaste,2023-11-17,713.0,285.0,True,150ml
+SKU0214,Oral Care Toothpaste Variant 214,Oral Care,Toothpaste,2023-04-01,1192.0,403.0,True,500g
+SKU0215,Oral Care Toothpaste Variant 215,Oral Care,Toothpaste,2022-08-18,367.0,142.0,True,250g
+SKU0216,Oral Care Toothpaste Variant 216,Oral Care,Toothpaste,2021-06-22,715.0,306.0,True,50ml
+SKU0217,Oral Care Mouthwash Variant 217,Oral Care,Mouthwash,2021-07-30,947.0,374.0,True,500g
+SKU0218,Oral Care Toothpaste Variant 218,Oral Care,Toothpaste,2021-05-04,1455.0,457.0,True,250g
+SKU0219,Oral Care Toothpaste Variant 219,Oral Care,Toothpaste,2021-06-23,767.0,231.0,True,30 tablets
+SKU0220,Oral Care Toothpaste Variant 220,Oral Care,Toothpaste,2022-01-06,713.0,244.0,True,100ml
+SKU0221,Oral Care Toothpaste Variant 221,Oral Care,Toothpaste,2021-01-22,863.0,261.0,True,250g
+SKU0222,Oral Care Mouthwash Variant 222,Oral Care,Mouthwash,2023-02-03,1145.0,508.0,True,100ml
+SKU0223,Oral Care Mouthwash Variant 223,Oral Care,Mouthwash,2023-07-01,455.0,182.0,True,1kg
+SKU0224,Oral Care Mouthwash Variant 224,Oral Care,Mouthwash,2021-05-27,1180.0,510.0,True,60 capsules
+SKU0225,Oral Care Tooth Serum Variant 225,Oral Care,Tooth Serum,2022-02-23,1025.0,415.0,True,50ml
+SKU0226,Oral Care Mouthwash Variant 226,Oral Care,Mouthwash,2022-05-19,774.0,264.0,True,250g
+SKU0227,Oral Care Tooth Serum Variant 227,Oral Care,Tooth Serum,2023-09-16,295.0,110.0,True,200ml
+SKU0228,Oral Care Toothpaste Variant 228,Oral Care,Toothpaste,2023-06-01,1037.0,493.0,True,30 tablets
+SKU0229,Oral Care Mouthwash Variant 229,Oral Care,Mouthwash,2023-09-09,801.0,313.0,True,60 capsules
+SKU0230,Oral Care Tooth Serum Variant 230,Oral Care,Tooth Serum,2021-02-09,444.0,178.0,True,30ml
+SKU0231,Oral Care Mouthwash Variant 231,Oral Care,Mouthwash,2021-12-29,334.0,154.0,False,50ml
+SKU0232,Oral Care Tooth Serum Variant 232,Oral Care,Tooth Serum,2021-06-19,1039.0,299.0,False,30 tablets
+SKU0233,Oral Care Tooth Serum Variant 233,Oral Care,Tooth Serum,2022-05-02,992.0,350.0,True,250g
+SKU0234,Oral Care Tooth Serum Variant 234,Oral Care,Tooth Serum,2022-01-16,976.0,427.0,True,50ml
+SKU0235,Oral Care Tooth Serum Variant 235,Oral Care,Tooth Serum,2023-01-29,1081.0,364.0,True,60 capsules
+SKU0236,Baby Care Baby Oil Variant 236,Baby Care,Baby Oil,2021-09-21,383.0,134.0,True,50ml
+SKU0237,Baby Care Baby Lotion Variant 237,Baby Care,Baby Lotion,2022-01-29,926.0,378.0,True,30 tablets
+SKU0238,Baby Care Baby Wash Variant 238,Baby Care,Baby Wash,2021-11-21,1039.0,379.0,True,200ml
+SKU0239,Baby Care Baby Wash Variant 239,Baby Care,Baby Wash,2021-03-12,1436.0,500.0,True,100ml
+SKU0240,Baby Care Baby Wash Variant 240,Baby Care,Baby Wash,2023-05-09,299.0,134.0,True,30 tablets
+SKU0241,Baby Care Baby Oil Variant 241,Baby Care,Baby Oil,2022-01-12,1348.0,388.0,True,60 capsules
+SKU0242,Baby Care Baby Wash Variant 242,Baby Care,Baby Wash,2022-11-27,975.0,303.0,True,60 capsules
+SKU0243,Baby Care Baby Wash Variant 243,Baby Care,Baby Wash,2021-11-16,1137.0,328.0,True,150ml
+SKU0244,Baby Care Baby Lotion Variant 244,Baby Care,Baby Lotion,2021-05-27,993.0,427.0,True,150ml
+SKU0245,Baby Care Baby Lotion Variant 245,Baby Care,Baby Lotion,2022-10-31,1454.0,635.0,True,60 capsules
+SKU0246,Baby Care Baby Lotion Variant 246,Baby Care,Baby Lotion,2021-10-11,799.0,269.0,True,500g
+SKU0247,Baby Care Baby Wash Variant 247,Baby Care,Baby Wash,2023-02-22,1261.0,555.0,True,30ml
+SKU0248,Baby Care Baby Oil Variant 248,Baby Care,Baby Oil,2023-05-06,824.0,292.0,True,30 tablets
+SKU0249,Baby Care Baby Wash Variant 249,Baby Care,Baby Wash,2022-05-23,570.0,247.0,True,30 tablets
+SKU0250,Baby Care Baby Wash Variant 250,Baby Care,Baby Wash,2022-09-04,1279.0,382.0,True,250g
+SKU0251,Baby Care Baby Wash Variant 251,Baby Care,Baby Wash,2021-10-28,738.0,265.0,True,50ml
+SKU0252,Baby Care Baby Lotion Variant 252,Baby Care,Baby Lotion,2023-05-14,491.0,169.0,True,250g
+SKU0253,Baby Care Baby Wash Variant 253,Baby Care,Baby Wash,2021-04-09,378.0,128.0,True,100ml
+SKU0254,Baby Care Baby Oil Variant 254,Baby Care,Baby Oil,2023-06-23,809.0,326.0,True,150ml
+SKU0255,Baby Care Baby Wash Variant 255,Baby Care,Baby Wash,2020-12-17,912.0,388.0,True,200ml
+SKU0256,Baby Care Baby Wash Variant 256,Baby Care,Baby Wash,2021-07-26,590.0,171.0,True,60 capsules
+SKU0257,Baby Care Baby Lotion Variant 257,Baby Care,Baby Lotion,2021-02-12,281.0,126.0,True,30ml
+SKU0258,Baby Care Baby Oil Variant 258,Baby Care,Baby Oil,2023-02-11,869.0,285.0,True,30ml
+SKU0259,Baby Care Baby Oil Variant 259,Baby Care,Baby Oil,2022-11-14,658.0,259.0,True,50ml
+SKU0260,Baby Care Baby Oil Variant 260,Baby Care,Baby Oil,2020-12-20,1466.0,430.0,True,30 tablets
+SKU0261,Baby Care Baby Oil Variant 261,Baby Care,Baby Oil,2023-09-04,225.0,102.0,True,250g
+SKU0262,Baby Care Baby Lotion Variant 262,Baby Care,Baby Lotion,2023-07-17,1171.0,412.0,True,50ml
+SKU0263,Baby Care Baby Oil Variant 263,Baby Care,Baby Oil,2023-09-03,1155.0,400.0,True,250g
+SKU0264,Baby Care Baby Oil Variant 264,Baby Care,Baby Oil,2021-04-25,427.0,186.0,False,1kg
+SKU0265,Baby Care Baby Oil Variant 265,Baby Care,Baby Oil,2021-05-09,436.0,134.0,True,150ml
+SKU0266,Baby Care Baby Wash Variant 266,Baby Care,Baby Wash,2022-02-24,1227.0,561.0,False,30 tablets
+SKU0267,Baby Care Baby Lotion Variant 267,Baby Care,Baby Lotion,2022-07-02,1485.0,577.0,True,150ml
+SKU0268,Baby Care Baby Lotion Variant 268,Baby Care,Baby Lotion,2022-01-22,663.0,289.0,True,250g
+SKU0269,Baby Care Baby Lotion Variant 269,Baby Care,Baby Lotion,2021-10-02,1355.0,581.0,True,100ml
+SKU0270,Baby Care Baby Lotion Variant 270,Baby Care,Baby Lotion,2021-01-03,1099.0,388.0,True,50ml
+SKU0271,Baby Care Baby Oil Variant 271,Baby Care,Baby Oil,2022-11-28,751.0,275.0,True,250g
+SKU0272,Baby Care Baby Wash Variant 272,Baby Care,Baby Wash,2022-03-15,303.0,125.0,True,500g
+SKU0273,Baby Care Baby Wash Variant 273,Baby Care,Baby Wash,2023-09-07,1096.0,384.0,True,250g
+SKU0274,Baby Care Baby Oil Variant 274,Baby Care,Baby Oil,2023-08-07,1497.0,501.0,True,500g
+SKU0275,Baby Care Baby Lotion Variant 275,Baby Care,Baby Lotion,2023-01-09,866.0,372.0,False,100ml
+SKU0276,Baby Care Baby Oil Variant 276,Baby Care,Baby Oil,2023-03-19,1081.0,397.0,True,250g
+SKU0277,Baby Care Baby Lotion Variant 277,Baby Care,Baby Lotion,2023-01-22,697.0,274.0,True,250g
+SKU0278,Baby Care Baby Lotion Variant 278,Baby Care,Baby Lotion,2023-02-24,776.0,229.0,True,500g
+SKU0279,Baby Care Baby Lotion Variant 279,Baby Care,Baby Lotion,2023-04-14,1043.0,344.0,True,100ml
+SKU0280,Baby Care Baby Lotion Variant 280,Baby Care,Baby Lotion,2023-04-05,872.0,403.0,True,200ml

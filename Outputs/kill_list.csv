@@ -1,0 +1,40 @@
+sku_id,category,subcategory,total_revenue,true_margin_pct,velocity_tag,abc_class,times_as_gateway,rationalization_score
+SKU0164,Body Care,Body Wash,88167.2,1.65,Stable,C,26,1.2
+SKU0277,Baby Care,Baby Lotion,65099.8,1.51,Growing,C,29,1.2
+SKU0116,Nutrition,Vitamins,63419.8,5.72,Growing,C,22,1.2
+SKU0092,Skincare,Serum,61543.8,-5.82,Declining,C,27,1.2
+SKU0228,Oral Care,Toothpaste,58279.4,6.33,Stable,C,16,1.2
+SKU0160,Body Care,Body Lotion,57740.25,-17.92,Stable,C,30,1.2
+SKU0083,Skincare,Moisturizer,57584.8,6.87,Growing,C,22,1.2
+SKU0254,Baby Care,Baby Oil,56063.7,6.16,Growing,C,18,1.2
+SKU0167,Body Care,Scrub,53812.5,-2.76,Stable,C,35,1.2
+SKU0279,Baby Care,Baby Lotion,46413.5,1.72,Declining,C,10,1.2
+SKU0213,Oral Care,Toothpaste,42102.65,-7.36,Declining,C,24,1.2
+SKU0149,Body Care,Scrub,41649.3,-4.33,Declining,C,9,1.2
+SKU0071,Skincare,Moisturizer,41234.05,-1.38,Declining,C,22,1.2
+SKU0218,Oral Care,Toothpaste,37902.75,-18.56,Growing,C,8,1.2
+SKU0073,Skincare,Moisturizer,37095.05,6.77,Declining,C,19,1.2
+SKU0137,Nutrition,Protein Powder,36622.35,-37.11,Growing,C,8,1.2
+SKU0158,Body Care,Body Lotion,33385.2,-36.06,Stable,C,21,1.2
+SKU0189,Oral Care,Toothpaste,31416.0,-3.8,Declining,C,16,1.2
+SKU0085,Skincare,Moisturizer,30771.899999999998,-11.23,Declining,C,6,1.2
+SKU0206,Oral Care,Tooth Serum,29393.0,-20.24,Declining,C,11,1.2
+SKU0184,Body Care,Scrub,23741.5,-44.46,Growing,C,7,1.2
+SKU0178,Body Care,Body Lotion,25593.75,-52.99,Declining,C,25,1.2
+SKU0124,Nutrition,Supplements,22113.0,-53.63,Growing,C,10,1.2
+SKU0280,Baby Care,Baby Lotion,21843.6,-35.92,Declining,C,6,1.2
+SKU0165,Body Care,Body Wash,15666.0,-53.95,Stable,C,21,1.2
+SKU0161,Body Care,Body Wash,20702.1,-94.86,Declining,C,6,1.2
+SKU0144,Body Care,Body Lotion,18246.6,-63.21,Growing,C,10,1.2
+SKU0257,Baby Care,Baby Lotion,17239.35,-93.63,Declining,C,24,1.2
+SKU0162,Body Care,Scrub,14523.6,-101.39,Growing,C,8,1.2
+SKU0173,Body Care,Body Wash,15468.199999999999,-74.54,Declining,C,19,1.2
+SKU0112,Nutrition,Protein Powder,12456.0,-103.7,Growing,C,8,1.2
+SKU0076,Skincare,Sunscreen,11253.9,-94.6,Growing,C,9,1.2
+SKU0058,Skincare,Sunscreen,5913.6,-278.08,Stable,C,6,1.2
+SKU0155,Body Care,Body Lotion,9690.0,-139.6,Growing,C,3,1.2
+SKU0191,Oral Care,Tooth Serum,8797.5,-57.02,Stable,C,9,1.2
+SKU0203,Oral Care,Toothpaste,8580.0,-301.08,Declining,C,4,1.2
+SKU0157,Body Care,Body Lotion,6993.0,-205.82,Growing,C,11,1.2
+SKU0088,Skincare,Face Wash,33003.1,-15.92,Declining,C,14,1.4
+SKU0122,Nutrition,Supplements,11666.25,-111.09,Declining,C,14,1.4
