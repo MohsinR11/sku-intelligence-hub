@@ -64,14 +64,14 @@ Gross margin minus complexity cost per SKU. Reveals SKUs that look
 profitable but are actively destroying value after ops overhead.
 
 **Layer 2 - Demand Velocity**
-Not just current revenue — but whether each SKU is growing,
+Not just current revenue - but whether each SKU is growing,
 stable, or dying. A declining SKU with decent revenue today is
 a guaranteed problem tomorrow.
 
 **Layer 3 - Gateway Intelligence**
 Some low-revenue SKUs are the first product 600+ customers ever
 buy. Those customers return at a 75% rate with ₹1,490 in 90-day
-LTV. Killing a gateway SKU doesn't just lose its own revenue —
+LTV. Killing a gateway SKU doesn't just lose its own revenue -
 it closes a customer acquisition door. This layer protects against
 that mistake.
 
@@ -114,7 +114,7 @@ Designed to reflect realistic business patterns.
 | Table | Rows | Description |
 |---|---|---|
 | sku_master | 280 | Product catalog with MRP, cost, category, launch date |
-| sales_transactions | 85,000 | Order-level data, Jan 2024 – Dec 2025 |
+| sales_transactions | 85,000 | Order-level data, Jan 2024 - Dec 2025 |
 | sku_ops_cost | 280 | Storage, handling, packaging complexity per SKU |
 | customer_first_purchase | 33,881 | First SKU bought per customer + LTV + repeat behavior |
 
@@ -150,8 +150,8 @@ Low CV = predictable demand (X). High CV = erratic (Z).
 ### Step 3 - True Margin Calculation
 
 True Profit = Gross Profit
-− Total Complexity Cost (storage + packaging overhead × 24 months)
-− Total Handling Cost (pick/pack per unit × units sold)True Margin % = True Profit ÷ Total Revenue × 100
+- Total Complexity Cost (storage + packaging overhead × 24 months)
+- Total Handling Cost (pick/pack per unit × units sold)True Margin % = True Profit ÷ Total Revenue × 100
 
 ### Step 4 - Gateway Value Score
 Measures each SKU's role in acquiring new customers.
