@@ -1,4 +1,4 @@
-# SKU Intelligence Hub
+# 🛍️ SKU Intelligence Hub
 ### Portfolio Rationalization & Margin Recovery System
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
@@ -237,13 +237,15 @@ not just an SKU finding.
 
 ## Power BI Dashboard - 5 Pages
 
-| Page | Purpose | Key Visual |
-|---|---|---|
-| Executive Command | C-suite portfolio overview | Donut + category treemap |
-| Portfolio Matrix | SKU-level decision view | 4-quadrant scatter plot |
-| Margin Intelligence | True vs gross margin story | Margin waterfall chart |
-| Gateway & Risk | Acquisition protection layer | Gateway risk scatter |
-| Kill List & Actions | Discontinuation command centre | Priority-ranked kill list |
+![Exceutive Command](https://github.com/MohsinR11/sku-intelligence-hub/blob/main/Dashboard/Screenshots/Page%201.png)
+
+| Page | Purpose |
+|---|---|
+| Executive Command | C-suite portfolio overview |
+| Portfolio Matrix | SKU-level decision view |
+| Margin Intelligence | True vs gross margin story |
+| Gateway & Risk | Acquisition protection layer |
+| Kill List & Actions | Discontinuation command centre |
 
 **Dashboard features:**
 - Cross-page slicer sync (Category, Recommendation, ABC Class)
